@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.qdriven.qmetaplugins.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.qdriven.qmetaplugins.MyBundle
 
 class MyApplicationService {
 
